@@ -2,3 +2,5 @@ __pycache__
 eeg_images
 images
 modwtpy-master
+allData.pickle
+allDataSameLength.pickle
